@@ -42,7 +42,7 @@ Our analysis identified significant demographic predictors of mental health, pro
 
 ## Code
 
-The final analysis and model code can be found in the `milestone5.ipynb` notebook.
+The final analysis and model code can be found in the `milestone5.ipynb` notebook along with a more detailed explanation of the research process. Previous milestones are included for reference of early ideas.
 
 ## Running the Project
 
