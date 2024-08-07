@@ -1,4 +1,5 @@
-# Predicting Mental Health with the BRFSS
+# Predictive Modeling of Mental Health Outcomes
+## A Comparative Analysis of Regression and Ensemble Techniques
 
 ### Hannah Boen, Gabe LeBlanc, Ethan Tran
 ### Decemeber 2023
