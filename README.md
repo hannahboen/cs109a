@@ -1,6 +1,6 @@
 # Predicting Mental Health with the BRFSS
 
-### Gabe LeBlanc, Hannah Boen, Ethan Tran
+### Hannah Boen, Gabe LeBlanc, Ethan Tran
 ### Decemeber 2023
 
 ## Overview
@@ -52,8 +52,8 @@ The final analysis and model code can be found in the `milestone5.ipynb` noteboo
 
 ## Authors
 
-- Gabe LeBlanc
 - Hannah Boen
+- Gabe LeBlanc
 - Ethan Tran
 
 ## Acknowledgments
