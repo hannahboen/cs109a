@@ -1,2 +1,2 @@
-# cs109a
-Predicting Mental Health with CDC Data
+# CS 109A Final Project: Predicting Mental Health with CDC Data
+
