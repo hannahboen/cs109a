@@ -34,7 +34,7 @@ This project leverages the Behavioral Risk Factors Surveillance System (BRFSS) t
 - **High Income**: Associated with fewer poor mental health days.
 - **Retirement**: Linked to a decrease in poor mental health days.
 - **Unable to Work**: Correlated with the most poor mental health days.
-- **Female Gender**: Associated with more poor mental health days.
+- **Female Sex**: Associated with more poor mental health days.
 
 ## Conclusion
 
